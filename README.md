@@ -1,0 +1,2 @@
+# Javascript-Codewars
+ My Solutions
