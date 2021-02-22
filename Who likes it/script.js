@@ -13,4 +13,4 @@ function likes(names){
 }
 
 
-console.log(likes([]));
+console.log(likes(['ali','ayse','fatma']));
