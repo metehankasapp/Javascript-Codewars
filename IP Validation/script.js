@@ -67,7 +67,7 @@ function isValidIP(str) {
       (acc === true) &&                       // Ensure prior octets okay
       (String(Number(octet)) === octet) &&    // Ensure octet has nothing funky like spaces, leading 0's, ...
       (Number(octet) >= 0) &&                 // Ensure octet is 0 or more
-      (Number(octet) <= 255)                  // Ensure octet is 255 or less
+      (Number(octet) <= 255)                  // Ensure octetis 255 or less
     , true)
 }
 
