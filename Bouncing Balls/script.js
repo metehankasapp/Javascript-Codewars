@@ -13,7 +13,7 @@ function bouncingBall(h,bounce,window) {
         return -1;
     }
 
-    return(total-2);
+    return(total-2)
   }
 
 
